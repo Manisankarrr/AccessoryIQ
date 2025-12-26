@@ -1,0 +1,7 @@
+python-dotenv
+requests
+faiss-cpu
+sentence-transformers
+pypdf
+langchain
+gradio

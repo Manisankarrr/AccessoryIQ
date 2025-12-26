@@ -1,0 +1,90 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# ==============================
+# Virtual Environment
+# ==============================
+venv/
+.env/
+.env.*
+
+# ==============================
+# OS / Editor files
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Logs & Runtime Files
+# ==============================
+*.log
+logs/
+*.pid
+
+# ==============================
+# Python build artifacts
+# ==============================
+build/
+dist/
+*.whl
+
+# ==============================
+# Jupyter / Notebooks
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# FAISS / Vector Store Artifacts
+# ==============================
+data/faiss/
+*.faiss
+*.pkl
+
+# ==============================
+# Temporary data / caches
+# ==============================
+.cache/
+.tmp/
+.tmp_cache/
+
+# ==============================
+# API keys / secrets
+# ==============================
+.env
+config/.env
+config/settings.local.py
+
+# ==============================
+# Gradio / UI cache
+# ==============================
+.gradio/
+
+# ==============================
+# OS-specific
+# ==============================
+*.DS_Store
+desktop.ini
+
+# ==============================
+# Test output
+# ==============================
+.coverage
+htmlcov/
+
+# ==============================
+# Ignore downloaded PDFs (optional)
+# Uncomment if you don’t want PDFs tracked
+# ==============================
+# data/pdfs/*
