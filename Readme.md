@@ -111,6 +111,7 @@ It is built around a **RAG-first architecture** (Retrieval-Augmented Generation)
    python -m ui.app 
    ```
 
+   
 ## 🤝 Contributing
 
 Contributions are welcome! To get started:
